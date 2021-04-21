@@ -1,0 +1,20 @@
+#1|Income
+Family|Salary|Other
+#2|Health
+Doctor|Pharmacy|Beauty|Other
+#4|Entertainment
+Movie|Video Game|Other
+#5|Car
+Financial|Insurance|Gasoline|Other
+#6|College
+Textbook|Tuition|Student Loan|Other
+#7|Housing
+Rent|Utility|Other
+#8|Food
+Restaurant|Grocery|Other
+#9|Shop
+Electronic|Clothes|Gift|Other
+#10|Tax
+Tax Return|Sale Tax|Income Tax|Other
+#11|Phone
+#12|Charity

@@ -1,0 +1,5 @@
+#1|Transaction|T1538352000|$+1000.00|MainAccount#1|SecondaryAccount#0|Source#1|Location#1|Type#1_1
+#2|Transaction|T1538352000|$+445.43|MainAccount#1|SecondaryAccount#0|Source#2|Location#1|Type#1_2
+#3|Transaction|T1538352000|$-1120.53|MainAccount#1|SecondaryAccount#0|Source#3|Location#1|Type#9_1
+#4|Transaction|T1538352000|$-2.14|MainAccount#1|SecondaryAccount#0|Source#2|Location#1|Type#8_1
+#5|Transaction|T1538352000|$-45.54|MainAccount#1|SecondaryAccount#0|Source#2|Location#1|Type#5_3
